@@ -47,4 +47,5 @@ Antonym sources:
 ## Author
 Jasmina Pegan
 
-## LICENCE
+## LICENSE
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licenca Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />To delo je objavljeno pod <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">licenco Creative Commons Priznanje avtorstva-Deljenje pod enakimi pogoji 4.0 Mednarodna</a>.
