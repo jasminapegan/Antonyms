@@ -20,12 +20,13 @@ If recollecting data from sources and rebuilding datasets following libraries ar
 Using different version for _joblib_ can render models unusable.
 
 ## STRUCTURE
-Package _data_ contains datasets in folder _sources_ and source code 
-used for extracting data from sources. Example usage is shown in script *classifiers_main.py*.
+Package _data_ contains source code used for extracting data from sources. Example usage is shown in script *classifiers_main.py*. One of datasets is in folder _sources_, others will be on Dropbox (link will be added in a day or two) because files were too big to upload on Github.
+
 Package _classifiers_ contains trained models in folder _models_ and
 training and testing sets in folder _datasets_. It also contains 
 source code used when searching for best parameters and saving trained models.
 Example usage is shown in script *classifiers_main.py*.
+
 Package _evaluation_ contains source code for evaluation of models.
 Originally used code is _evaluate.py_, corrected code is *evaluate_corrected.py*.
 Example usage is shown in script *evaluation_main.py*.
@@ -35,7 +36,7 @@ To use modules, one can import them in terminal and use immediately
 or write to one of scripts that end with _main.py_ and then execute script.
 
 ## SOURCES
-Getting data again from sources is possible, but source files are not provided here.
+Extracting data again from sources is possible, but I do not provide source files.
 
 Synonym sources:
 * [SloWNet database](https://www.clarin.si/repository/xmlui/handle/11356/1026)
